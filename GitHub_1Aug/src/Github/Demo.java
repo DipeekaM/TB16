@@ -5,6 +5,8 @@ public class Demo
 	public void m1()
 	{
 		System.out.println("hi");
+		System.out.println("Git");
+		
 		
 	}
 	public void m2()
